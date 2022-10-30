@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,YACE,mBACF,CAEA,QACE,mBACF","file":"style.86b8407d.css","sourceRoot":"..\\src","sourcesContent":[".form-field {\n  padding-bottom: 10px;\n}\n/* styles go here */\n.groups {\n  padding-bottom: 20px;\n}\n"]}
